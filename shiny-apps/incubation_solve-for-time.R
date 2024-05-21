@@ -1,4 +1,12 @@
-# Load required libraries (install first if necessary)
+# Install required packages if not already installed
+if (!require(shiny)) {
+  install.packages("shiny")
+}
+if (!require(rootSolve)) {
+  install.packages("rootSolve")
+}
+
+# Load required libraries
 library(shiny)
 library(rootSolve)
 
