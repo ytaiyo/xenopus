@@ -12,7 +12,7 @@ library(rootSolve)
 
 # Define the UI
 ui <- fluidPage(
-  titlePanel("NF-Stage Incubation Calculator"),
+  titlePanel("NF-Stage Incubation Temperature Calculator"),
   
   # Main layout with a sidebar and main panel
   sidebarLayout(
