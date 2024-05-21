@@ -8,7 +8,7 @@ A complementary tool to CRISPRscan when designing guides for *X. Laevis*. It com
 
 **Temperature vs Development calculators (*X. laevis* & *X. tropicalis*)**
 
-We've collected data on development of *Xenopus* embryos over time at different temperatures in the Lienkamp lab and at the CSHL Xenopus Course '23 (Thanks @Kate McCluskey!). The curves and how I modeled them is explained [here](https://docs.google.com/document/d/1hgQUWO2XMmLkNYLLH7CPkMmxlMuVqj-LPx0SfMHwP9Q/edit?usp=sharing). 
+We've collected data on development of *Xenopus* embryos over time at different temperatures in the Lienkamp lab and at the CSHL Xenopus Course '23 (Thanks @Kate McCluskey!). How I modeled the curves is explained [here](https://docs.google.com/document/d/1hgQUWO2XMmLkNYLLH7CPkMmxlMuVqj-LPx0SfMHwP9Q/edit?usp=sharing). 
 
 This resulted in an equation with NF-stage, Temperature, and Time as variables. The tools respectively allow you to enter two of the variables and calculate the third.
 
