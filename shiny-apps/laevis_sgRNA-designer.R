@@ -25,7 +25,7 @@ ui <- fluidPage(
       actionButton("submitBtn", "Submit"),
       br(),
       p(" "),
-      p("Made by Taiyo Yamamoto")
+      p("Made by Taiyo Yamamoto (Lienkamp lab)")
     ),
     mainPanel(
       DTOutput("resultTable")
