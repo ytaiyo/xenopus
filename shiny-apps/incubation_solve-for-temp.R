@@ -42,7 +42,7 @@ ui <- fluidPage(
            h4("Background:"),
            p(a("Google doc", href = "https://docs.google.com/document/d/1hgQUWO2XMmLkNYLLH7CPkMmxlMuVqj-LPx0SfMHwP9Q/edit?usp=sharing"), " for more information."),
            br(),
-           p("Made by Taiyo Yamamoto")
+           p("Made by Taiyo Yamamoto (Lienkamp lab)")
     )
   )
 )
