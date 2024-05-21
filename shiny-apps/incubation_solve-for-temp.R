@@ -1,4 +1,4 @@
-# Load required libraries
+# Load required libraries (install first if necessary)
 library(shiny)
 library(rootSolve)
 
