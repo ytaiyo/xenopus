@@ -4,7 +4,7 @@ This is a collection of tools for labwork with *Xenopus*.
 
 ***X. laevis* sgRNA designer**
 
-A complementary tool to CRISPRscan when designing CRISPR guides for *X. Laevis*. It compares the lists of gRNA's and makes a list of all guides that hit both S & L homeologs. I've added a user-guide for the tool.
+A complementary tool to CRISPRscan when designing guides for *X. Laevis*. It compares the lists of gRNA's and makes a list of all guides that hit both S & L homeologs. I've added a user-guide for the tool.
 
 **Temperature vs Development calculators (*X. laevis* & *X. tropicalis*)**
 
