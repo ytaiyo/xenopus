@@ -16,7 +16,7 @@ There are few data points between stages 40-45, which makes the tools fairly ina
 
 **General information**
 
-I first made all of the tools in python, you can find them in the folder *python_files*. The code is much easier to read in those so I've kept them in.
+I first made all of the tools in python, you can find them in the folder *python_files*. The code is much easier to read in those because they aren't embedded in an app so I've kept them in.
 
 I then made *shiny* web-apps in R. If you just want to use the tools, you can directly use them online:
 
