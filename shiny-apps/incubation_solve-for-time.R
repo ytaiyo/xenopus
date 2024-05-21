@@ -12,7 +12,7 @@ library(rootSolve)
 
 # Define UI
 ui <- fluidPage(
-  titlePanel("Xenopus incubation time calculatior"),
+  titlePanel("NF-Stage Incubation Time Calculator"),
   sidebarLayout(
     sidebarPanel(
       numericInput("iniStage", "Enter initial stage here:", value = 0),
